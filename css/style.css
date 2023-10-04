@@ -456,7 +456,7 @@ background-color: white;
             padding: 20 60;
             border: 1px solidrgba(233, 168, 180, 0.774);
         position: relative;
-        margin-bottom: 50;
+        margin-bottom: 30;
         /* z-index: 10; */
         }
        
@@ -467,8 +467,7 @@ width: 0;
 height: 100%;
 top: 0;
 left: 0;
-/*     background-color:rgb(63, 148, 112); */
-	background-color: rgb(248, 194, 194);
+background-color: rgb(248, 194, 194);
 opacity: 0;
 transition: .5s;
 z-index:-1;
