@@ -488,7 +488,7 @@ z-index: 2;
     height: 100%;
     top: 0;
     right: 0;
-background-color:rgb(63, 148, 112);
+background-color: rgb(248, 194, 194);
     opacity: 0;
     transition: .5s;
     z-index:-1;
